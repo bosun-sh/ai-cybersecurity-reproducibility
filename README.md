@@ -78,9 +78,7 @@ Generates figure assets from evidence data without introducing new data.
 If you use this reproducibility package, please cite the main paper:
 
 ```
-Plajutin, S., & Ramirez, J. (2026). Artificial Intelligence in Cybersecurity: 
-Reproducible Evidence on Vulnerability Discovery and Security Operations. 
-bosun.sh — AI-Native Tech Lab.
+Plajutin, S., & Ramirez, J. I. (2026). Artificial Intelligence in Cybersecurity: Reproducible Evidence on Vulnerability Discovery and Security Operations. Zenodo. https://doi.org/10.5281/zenodo.19463970
 ```
 
 ## License
